@@ -1,0 +1,2 @@
+# laba1_2024
+MIPHI_project_laba1_dynamic_massive
